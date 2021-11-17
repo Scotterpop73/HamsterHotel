@@ -1,0 +1,77 @@
+.bgDarkBlue{
+    background-color: #000324;
+}
+.white{
+    color: white;
+}
+.dosis{
+    font-family: Dosis;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+.heroImage{
+    background-image: url("../images/header.jpg");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.heroText{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #E5FEFF;
+}
+.heroImage2{
+    background-image: url("../images/bg2.jpg");
+    /* height: 738px; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.heroText2{
+    text-align: center;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #E5FEFF;
+    font-family: Dosis;
+}
+.heroImage3{
+    background-image: url("../images/bg.jpg");
+    /* height: 738px; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.heroText3{
+    text-align: center;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: Dosis;
+    font-size: 35px;
+}
+.heroText4{
+    text-align: center;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: Dosis;
+    font-size: 16px;
+}
+
+
+
